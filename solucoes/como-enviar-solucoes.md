@@ -6,9 +6,9 @@
 3. Faça **COMMIT** e **PUSH** dos seus arquivos
 4. Crie um **PULL REQUEST** para este repositório
 
-## Cuidados:
+# Cuidados:
 
-### Evite enviar arquivos desnecessários
+## Evite enviar arquivos desnecessários
 
 O propósito deste repositório é compartilhar apenas soluções em código. Arquivos de texto, executáveis, cache ou configuração devem ficar de fora dos commits.
 
@@ -16,12 +16,12 @@ O propósito deste repositório é compartilhar apenas soluções em código. Ar
 >
 > 💡 **Dica:** Caso seja absolutamente necessário enviar um `.txt` (ou qualquer outro tipo de arquivo) para que sua solução funcione, utilize o comando `git add --force <nome_do_arquivo>`.
 
-### Não estrague o desafio para outras pessoas
+## Não estrague o desafio para outras pessoas
 
 Não fale sobre as soluções para um desafio em locais não destinados para esse tipo de discussão.
 
 > 💡 **Dica:** A seção [Issues](https://github.com/Pedro-HMV/aoc2023-agg/issues) serve como local de discussão de soluções e pedidos de ajuda. Os comentários sobre formas de resolver um desafio devem ser restritas a essas postagens.
 
-### Não envie arquivos contendo informações sensíveis
+## Não envie arquivos contendo informações sensíveis
 
 Para problemas do Advent of Code, nunca será necessário incluir informações privadas no código (emails, usuários, senhas, etc). Mas por via das dúvidas, confira sempre se nenhum dos arquivos que está sendo enviado contém alguma informação desse tipo.
