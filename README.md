@@ -4,7 +4,7 @@ Repositório para [Awesome Game Guild](https://gameguild.gg/) gerenciar comparti
 
 As [soluções](/solucoes/) são divididas por dia do evento (1 a 25 de dezembro) e por linguagem de programação.
 
-Cada pessoas pode enviar soluções em quantas linguagens quiser.
+Cada pessoa pode enviar soluções em quantas linguagens quiser.
 
 ## Leia as instruções
 
@@ -12,6 +12,6 @@ As instruções para enviar suas soluções se encontram [aqui](/solucoes/como-e
 
 ## Discussões e ajuda
 
-Os desafios e suas soluções, podem ser discutidos através de abertura de tópicos na aba [Issues](https://github.com/Pedro-HMV/aoc2023-agg/issues).
+Os desafios e suas soluções podem ser discutidos através de abertura de tópicos na aba [Issues](https://github.com/Pedro-HMV/aoc2023-agg/issues).
 
 O mesmo vale para pedidos de ajuda, basta abrir um **issue**.
