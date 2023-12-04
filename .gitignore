@@ -1,0 +1,12 @@
+# VSCode
+.history/
+.vscode/
+
+# Python
+__pycache__/
+
+# Executables
+**/*.exe
+
+# Inputs
+input[0-9]*.txt
