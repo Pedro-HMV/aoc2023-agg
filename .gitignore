@@ -9,4 +9,5 @@ __pycache__/
 **/*.exe
 
 # Inputs
-input[0-9]*.txt
+# Use git add --force <file> to override
+**/*.txt
