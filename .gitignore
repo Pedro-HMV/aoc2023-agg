@@ -11,3 +11,9 @@ __pycache__/
 # Inputs
 # Use git add --force <file> to override
 **/*.txt
+
+# Environment variables
+.env
+
+# Config files
+**/*.config
